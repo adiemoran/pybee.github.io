@@ -34,6 +34,11 @@ name = Spanish
 url_prefix = /es/
 locale = es
 
+[alternatives.fr]
+name = French
+url_prefix = /fr_FR/
+locale = fr_FR
+
 [packages]
 lektor-rst = 0.1
 lektor-github-repos = 0.1.1
