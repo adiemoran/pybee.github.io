@@ -74,17 +74,17 @@ image: cross-platform.png
 ----
 image_alignment: left
 #### text-block ####
-title: ### ...behaving natively.
+title: ### ...avec des comportements natifs.
 ----
-text: End users shouldn't have to care what language their tools are written in. And that starts with looking and behaving **like completely native tools**. Native appearance, native behavior, delivered in the way a native app is delivered. Why shouldn't your Python tools fit in just as well as a native tool?
+text: Les utilisateurs finaux ne devraient pas avoir à se soucier du langage avec lequel son outil à été conçu. Et cela commence par une presentation et un comportement **totalement natifs**. Presentation native, comportement natif, et une application fournie comme toute autre application native. Pourquoi vos outils Python ne devraient-ils pas se comporter aussi bien qu'un outil natif ?
 ----
 image: native.png
 ----
 image_alignment: right
 #### text-block ####
-title: ## This is BeeWare.
+title: ## Voici BeeWare.
 ----
-text: This is what BeeWare provides. Tools to help you write Python code with a rich, **native user interface**; and the libraries and support code necessary to get that code running on **iOS, Android, macOS, Linux, Windows, tvOS, and more**.
+text: Voici ce qui fournit BeeWare. Des outils qui vous aident à coder du Python avec une **interface utilisateur native** et riche ; et les libraries et le support nécessaire pour permettre d'exécuter ce code sur **iOS, Androïd, macOS, Linux, Windows, tvOS, et plus**.
 ----
 image: brutus-97.png
 ----
@@ -92,7 +92,7 @@ image_alignment: left
 #### text-block ####
 title: ### Open source
 ----
-text: The Open Source development process has proven itself to be the most reliable way to develop robust and reliable software. That's why the entire BeeWare suite of tools are BSD licensed, and **available for all to use and modify**.
+text: Le développement Open Source a démontré être la façon la plus fiable de créér des logiciels robustes et fiables. Voilà pourquoi toute la gamme d'outils BeeWare a été publiée sous licence BSD, et est **utilisable et modifiable par n'importe qui**.
 ----
 image: opensource.png
 ----
